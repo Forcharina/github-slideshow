@@ -1,6 +1,3 @@
----
- layout : slide
- título : " Bem-vindo ao nosso segundo slide! "
----
-Seu texto 
-Use a seta para a esquerda para voltar!
+Cada uma das cicatriezes, os dentes lascados e as garras quebradas, a cauda utilada não eram marcas de  uma vitima. Eram trofeus de um sobrevivente.
+<img style="-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://i.pinimg.com/originals/ca/fa/cb/cafacb1a8ca18c2678a244fee8670734.jpg" width="157" height="88">
+Abraxos era um guerreiro que não tinha qualquer chance a seu favor, mas sobreviver.Aprendera com isso. Triunfara.
